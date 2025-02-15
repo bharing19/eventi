@@ -1,5 +1,128 @@
 {
     "Saturday 15th Feb 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "14:30",
+                "event": "Monster Energy AMA Supercross Championship Detroit",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "205"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "East vs West Armwrestling 16",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "206"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:30",
+                "event": "The Way of Warrior FC : WOW 16: Bilbao",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "207"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:15",
+                "event": "Dirt Track Races at Volusia Speedway Park",
+                "channels": [
+                    {
+                        "channel_name": "Motor PPV",
+                        "channel_id": "151"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:45",
+                "event": "2025 USAC AMSOIL National Sprint Cars at Ocala Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:30",
+                "event": "USCS Winter Series @ Southern Raceway.",
+                "channels": [
+                    {
+                        "channel_name": "Motor PPV",
+                        "channel_id": "153"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "WV Toughman Contest",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "2025 World Series of Asphalt at New Smyrna Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:30",
+                "event": "Love and War : Rashidi Ellis vs. Jose Angulo",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "156"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "GCW | JCW: Jersey J-Cup 2025, Night One",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "157"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "03:00",
+                "event": "FSW: Valentine's Day Massacre 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "158"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Shows": [
             {
                 "time": "13:30",
@@ -5059,6 +5182,84 @@
                     {
                         "channel_name": "Teledeporte Spain",
                         "channel_id": "529"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis ATP - MARSEILLE": [
+            {
+                "time": "17:30",
+                "event": "ATP - MARSEILLE : Medvedev D. vs Medjedovic H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis ATP - BUENOS AIRES": [
+            {
+                "time": "19:00",
+                "event": "ATP - BUENOS AIRES : Djere L. vs Fonseca J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - BUENOS AIRES : Cerundolo F. vs Martinez P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis ATP - DELRAY BEACH": [
+            {
+                "time": "18:00",
+                "event": "ATP - DELRAY BEACH : Michelsen A. vs Kecmanovic M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "ATP - DELRAY BEACH : Davidovich Fokina A. vs Arnaldi M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis WTA - DOHA": [
+            {
+                "time": "15:00",
+                "event": "WTA - DOHA : Anisimova A. vs Ostapenko J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "15001"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
                     }
                 ],
                 "channels2": []
