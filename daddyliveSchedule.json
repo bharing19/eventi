@@ -6598,45 +6598,6 @@
         ],
         "Ice Hockey": [
             {
-                "time": "00:00",
-                "event": "PWHL Women : Montreal Victoire vs. Minnesota Frost",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    },
-                    {
-                        "channel_name": "Bally Sports South",
-                        "channel_id": "903"
-                    },
-                    {
-                        "channel_name": "Bally Sports Florida",
-                        "channel_id": "892"
-                    },
-                    {
-                        "channel_name": "Bally Sports Detroit",
-                        "channel_id": "891"
-                    },
-                    {
-                        "channel_name": "SportsNet Pittsburgh",
-                        "channel_id": "922"
-                    },
-                    {
-                        "channel_name": "Bally Sports North",
-                        "channel_id": "898"
-                    },
-                    {
-                        "channel_name": "Bally Sports Wisconsin",
-                        "channel_id": "907"
-                    },
-                    {
-                        "channel_name": "Bally Sports Oklahoma",
-                        "channel_id": "900"
-                    }
-                ],
-                "channels2": []
-            },
-            {
                 "time": "16:00",
                 "event": "KHL : Neftekhimik Nizhnekamsk vs Ak Bars Kazan",
                 "channels": [
@@ -6719,6 +6680,38 @@
                 "time": "00:00",
                 "event": "PWHL Women : Montreal Victoire vs. Minnesota Frost",
                 "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    },
+                    {
+                        "channel_name": "Bally Sports South",
+                        "channel_id": "903"
+                    },
+                    {
+                        "channel_name": "Bally Sports Florida",
+                        "channel_id": "892"
+                    },
+                    {
+                        "channel_name": "Bally Sports Detroit",
+                        "channel_id": "891"
+                    },
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922"
+                    },
+                    {
+                        "channel_name": "Bally Sports North",
+                        "channel_id": "898"
+                    },
+                    {
+                        "channel_name": "Bally Sports Wisconsin",
+                        "channel_id": "907"
+                    },
+                    {
+                        "channel_name": "Bally Sports Oklahoma",
+                        "channel_id": "900"
+                    },
                     {
                         "channel_name": "Nova Sport 1 Czech HD",
                         "channel_id": "1"
