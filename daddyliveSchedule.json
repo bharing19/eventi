@@ -1,17 +1,13 @@
 {
     "Monday 17th Feb 2025 - Schedule Time UK GMT": {
-        "TESTTT": [
+        "PPV Events": [
             {
-                "time": "16:00",
-                "event": "Mathis Court With Judge Mathis Season 2, Episode 16",
+                "time": "17:43",
+                "event": "Test 123",
                 "channels": [
                     {
-                        "channel_name": "CW USA",
-                        "channel_id": "300"
-                    },
-                    {
-                        "channel_name": "CW PIX 11 USA",
-                        "channel_id": "280"
+                        "channel_name": "Test",
+                        "channel_id": "1111"
                     }
                 ],
                 "channels2": []
