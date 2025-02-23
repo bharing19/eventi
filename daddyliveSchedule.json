@@ -3610,7 +3610,11 @@
                         "channel_id": "467"
                     },
                     {
-                        "channel_name": "Sport Klub 2 Serbia (CH-102) beIN Sports MENA 2",
+                        "channel_name": "Sport Klub 2 Serbia",
+                        "channel_id": "102"
+                    },
+                    {
+                        "channel_name": "beIN Sports MENA 2",
                         "channel_id": "92"
                     },
                     {
